@@ -15,10 +15,10 @@ versions:
 topics:
   - Permissions
   - Accounts
-shortTitle: Access permissions
+shortTitle: Access permissioTuns
 ---
 ## Personal user accounts
-
+docs/contenido/Empezar/aprender-sobre-github/ access-permissions-on-github.md
 A repository owned by a user account has two permission levels: the *repository owner* and *collaborators*. For more information, see "[Permission levels for a user account repository](/articles/permission-levels-for-a-user-account-repository)."
 
 ## Organization accounts
@@ -31,7 +31,10 @@ Organization members can have *owner*{% ifversion fpt %}, *billing manager*,{% e
 
 {% ifversion fpt %}
 
-## Enterprise accounts
+## Enter
+
+
+ 
 
 *Enterprise owners* have ultimate power over the enterprise account and can take every action in the enterprise account. *Billing managers* can manage your enterprise account's billing settings. Members and outside collaborators of organizations owned by your enterprise account are automatically members of the enterprise account, although they have no access to the enterprise account itself or its settings. For more information, see "[Roles in an enterprise](/github/setting-up-and-managing-your-enterprise/roles-in-an-enterprise)."
 
